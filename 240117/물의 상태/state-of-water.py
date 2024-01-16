@@ -1,9 +1,9 @@
-water = int(input())
+tep = int(input())
 
-if water < 0 :
+if tep < 0 :
     print('ice')
 
-elif water >=100 :
+elif tep >=100 :
     print('vapor')
 
 else :
